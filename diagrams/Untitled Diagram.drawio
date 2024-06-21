@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T15:49:51.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="kCvkdJIM_Gj8LYOJPRNk" version="24.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-21T16:02:38.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="JRuNwSJNssyihgDXuAUl" version="24.6.1" type="github" pages="2">
   <diagram name="Hills, Halls &amp; Holes" id="XuFgTRuwKFsQZAZ5k6Fc">
     <mxGraphModel dx="1659" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,8 +76,13 @@
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-14" value="Territory (Parish)" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EkfdjM8kDrYYXSLYoMVs-26">
           <mxGeometry x="50" y="30" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EkfdjM8kDrYYXSLYoMVs-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-2" target="EkfdjM8kDrYYXSLYoMVs-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EkfdjM8kDrYYXSLYoMVs-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-2" target="EkfdjM8kDrYYXSLYoMVs-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="240" />
+              <mxPoint x="550" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-41" value="Many Places Can Have&amp;nbsp;&lt;div&gt;Many Categories&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EkfdjM8kDrYYXSLYoMVs-28">
           <mxGeometry x="-0.1304" relative="1" as="geometry">
@@ -85,7 +90,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-29" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERone;endFill=0;startArrow=ERmany;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-2" target="EkfdjM8kDrYYXSLYoMVs-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="280" />
+              <mxPoint x="100" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-44" value="A Territory has Many Places" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EkfdjM8kDrYYXSLYoMVs-29">
           <mxGeometry x="-0.0535" relative="1" as="geometry">
@@ -105,7 +115,12 @@
           <mxGeometry x="60" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-2" target="EkfdjM8kDrYYXSLYoMVs-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="280" />
+              <mxPoint x="360" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-42" value="Many Places can&amp;nbsp;&lt;div&gt;have Many Refs.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EkfdjM8kDrYYXSLYoMVs-32">
           <mxGeometry x="-0.1517" y="-1" relative="1" as="geometry">
@@ -118,8 +133,13 @@
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-17" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-15" target="EkfdjM8kDrYYXSLYoMVs-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EkfdjM8kDrYYXSLYoMVs-37" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-9" target="EkfdjM8kDrYYXSLYoMVs-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EkfdjM8kDrYYXSLYoMVs-37" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="EkfdjM8kDrYYXSLYoMVs-9" target="EkfdjM8kDrYYXSLYoMVs-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="350" />
+              <mxPoint x="430" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EkfdjM8kDrYYXSLYoMVs-43" value="Many Refs. can have&lt;div&gt;&amp;nbsp;Many Categories&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="EkfdjM8kDrYYXSLYoMVs-37">
           <mxGeometry x="-0.0619" y="-1" relative="1" as="geometry">
